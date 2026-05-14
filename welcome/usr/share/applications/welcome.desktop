@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Welcome App
+Exec=/usr/bin/welcome.py
+Icon=/usr/share/icons/welcome.png
+Type=Application
+Categories=Utility;
